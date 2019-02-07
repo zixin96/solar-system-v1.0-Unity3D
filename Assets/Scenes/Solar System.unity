@@ -522,7 +522,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 278041641}
-  speed: 5
+  speed: 6
 --- !u!82 &278041643
 AudioSource:
   m_ObjectHideFlags: 0
