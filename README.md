@@ -12,7 +12,7 @@ This is a mini solar system Unity3D project.
 
 [Solar System](https://www.zixinzhang.com/solar-system-unity3d-project/)
 
-## Authors
+## Author(s)
 
 **Zixin Zhang**
 
